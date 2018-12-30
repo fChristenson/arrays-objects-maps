@@ -1,0 +1,14 @@
+{
+  "name": "arrays-objects-maps",
+  "version": "1.0.0",
+  "description": "## What we will cover",
+  "main": "main.js",
+  "scripts": {
+    "test": "npx jest --watchAll"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "23.6.0"
+  }
+}
